@@ -1,4 +1,4 @@
-active-faults
+Tibetean Active Faults
 =============
 
 >Tibet Plateau Faults   
