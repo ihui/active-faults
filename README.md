@@ -2,7 +2,6 @@ active-faults
 =============
 
 >Tibet Plateau Faults   
-
 >version:1
 coordinate system:GCS_WGS_1984
 the last edited time:7/17/2013
