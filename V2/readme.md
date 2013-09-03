@@ -14,7 +14,7 @@ name:断裂名称
 type:断裂类型  
 strike:断裂走向  
 dip:断裂倾向  
-dipan:断裂请教  
+dipan:断裂倾角  
 time:断裂活动时代  
 
 =============  
